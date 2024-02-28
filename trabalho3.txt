@@ -2,7 +2,9 @@ Primeira linguagem: Python - Se trata de ma linguagem de programação de alto n
 Com ampla utilzação em desenvolvimento web, ciência de dados, automação, inteligência artificial e muitas outras áreas.
 Possui sintaxe clara e legível, o que facilita a manutenção do código.
 Código mínimo:
+print('Olá mundo')
 
+Link do print: 
 
 
 
@@ -18,5 +20,7 @@ class Main {
         System.out.println("Bem vindo a programação!");
     }
 }
+
+Link do print:  https://github.com/JoaoMiguel24/Corsada24/blob/main/C%C3%B3digo%20Java.png 
 
 Terceira: C++ - Uma linguagem derivada da linguagem C. Ela é conhecido por sua flexibilidade e eficiência, sendo escolhido em situações em que o desempenho é crítico e o controle sobre os recursos do sistema é necessário.
