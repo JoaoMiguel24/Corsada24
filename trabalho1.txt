@@ -1,1 +1,4 @@
-
+1) Arquivo é um conjunto de dados que se relacionam de alguma forma, ou seja, juntos descrevem uma infromação ou aglomerado de infromações.
+1.1) Arquivo de texto é uma espécie de arquivo que contém texto simples, ou seja, caracteres legíveis por seres humanos. 
+2) No contexto de programação de computadores, uma variável é um objeto (uma posição , frequentemente localizada na memória) capaz de reter e representar um valor ou expressão.
+3) um servidor seria uma solução tecnológica com capacidade para executar programas de forma centralizada, além de armazenar e compartilhar dados. 
