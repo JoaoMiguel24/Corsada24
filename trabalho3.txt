@@ -1,0 +1,5 @@
+1) Primeira linguagem: Python - Se trata de ma linguagem de programação de alto nível e fácil de aprender.
+Com ampla utilzação em desenvolvimento web, ciência de dados, automação, inteligência artificial e muitas outras áreas.
+Possui sintaxe clara e legível, o que facilita a manutenção do código.
+Segunda: Java - Uma linguagem de programação de propósito geral, Conhecida por sua portabilidade, pois o código Java pode ser executado em diferentes plataformas sem a necessidade de recompilação. Usada em uma variedade de aplicativos, desde aplicações empresariais até desenvolvimento de aplicativos Android. 
+Terceira: C++ - Uma linguagem derivada da linguagem C. Ela é conhecido por sua flexibilidade e eficiência, sendo escolhido em situações em que o desempenho é crítico e o controle sobre os recursos do sistema é necessário.
