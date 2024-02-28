@@ -6,8 +6,6 @@ print('Olá mundo')
 
 Link do print: https://github.com/JoaoMiguel24/Corsada24/blob/main/C%C3%B3digo%20python.png
 
-
-
 Segunda linguagem: Java - Uma linguagem de programação de propósito geral, Conhecida por sua portabilidade, pois o código Java pode ser executado em diferentes plataformas sem a necessidade de recompilação. Usada em uma variedade de aplicativos, desde aplicações empresariais até desenvolvimento de aplicativos Android.
 Código mínimo:
 import java.util.*;
