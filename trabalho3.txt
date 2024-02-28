@@ -33,4 +33,4 @@ int main() {
     return 0;
 }
 
-Link do print
+Link do print: https://github.com/JoaoMiguel24/Corsada24/blob/main/C%C3%B3digo%20C%2B%2B.png 
