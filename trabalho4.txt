@@ -1,0 +1,11 @@
+Exemplo de uma estrutura de repetição no código python:
+
+# Exemplo de estrutura de repetição for
+for i in range(5):
+    print(i)
+
+# Exemplo de estrutura de repetição while
+contador = 0
+while contador < 5:
+    print(contador)
+    contador += 1
