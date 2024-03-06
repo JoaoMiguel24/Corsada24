@@ -27,3 +27,5 @@ else:
 
 # Exibe o resultado
 print(f"Resultado: {resultado}")
+
+Link do print de execução: https://github.com/JoaoMiguel24/Corsada24/blob/main/Tomada%20de%20decis%C3%A3o%20python%20.png
