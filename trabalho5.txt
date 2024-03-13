@@ -1,0 +1,23 @@
+Um algoritmo de ordenação Bubble Sort, usando a linguagem python:
+
+def bubble_sort(arr):
+    n = len(arr)
+
+    # Percorre todos os elementos do array
+    for i in range(n):
+        # Últimos i elementos já estão no lugar correto
+        for j in range(0, n-i-1):
+            # Troca se o elemento encontrado for maior que o próximo elemento
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso:
+# Crie um array para ordenar
+array_exemplo = [64, 34, 25, 12, 22, 11, 90]
+
+# Chame a função bubble_sort
+bubble_sort(array_exemplo)
+
+# Imprima o array ordenado
+print("Array ordenado:", array_exemplo)
+
