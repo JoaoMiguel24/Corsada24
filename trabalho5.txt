@@ -1,4 +1,4 @@
-Um algoritmo de ordenação Bubble Sort, usando a linguagem python:
+1) Um algoritmo de ordenação Bubble Sort, usando a linguagem python:
 
 def bubble_sort(arr):
     n = len(arr)
@@ -23,7 +23,7 @@ print("Array ordenado:", array_exemplo)
 
 Link de execução: https://github.com/JoaoMiguel24/Corsada24/blob/main/print%20de%20execu%C3%A7%C3%A3o%20Bubble.png
 
-Um algoritmo que imprime apenas as vogais de uma determinada frase:
+2) Um algoritmo que imprime apenas as vogais de uma determinada frase:
 
 def imprimir_vogais(frase):
     vogais = "aeiouAEIOU"
