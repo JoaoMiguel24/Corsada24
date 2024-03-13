@@ -21,3 +21,18 @@ bubble_sort(array_exemplo)
 # Imprima o array ordenado
 print("Array ordenado:", array_exemplo)
 
+Link de execução: https://github.com/JoaoMiguel24/Corsada24/blob/main/print%20de%20execu%C3%A7%C3%A3o%20Bubble.png
+
+Um algoritmo que imprime apenas as vogais de uma determinada frase:
+
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"
+    vogais_na_frase = [letra for letra in frase if letra in vogais]
+    resultado = ''.join(vogais_na_frase)
+    print("Vogais na frase:", resultado)
+
+# Exemplo de uso:
+palavra_ou_frase = ("Botafogo vai classificar hoje")
+imprimir_vogais(palavra_ou_frase)
+
+Link do print de execução: https://github.com/JoaoMiguel24/Corsada24/blob/main/print%20de%20execu%C3%A7%C3%A3o%20vogais%20.png 
