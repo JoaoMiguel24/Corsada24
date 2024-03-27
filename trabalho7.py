@@ -20,7 +20,7 @@ print(lista_alterada)
 
 def imprimir_triangulo(num_linhas):
     for i in range(1, num_linhas + 1):
-        print(" " * (num_linhas - i) + "*" * (2*i - 1))
+        print("*" * i)
 
-num_linhas = 5
+num_linhas = 10
 imprimir_triangulo(num_linhas)
