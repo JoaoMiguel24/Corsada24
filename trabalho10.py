@@ -6,3 +6,6 @@ def bombons (dinheiro, preço) :
 def a_mais(dinheiro, preço):
     qtd, troco = bombons(dinheiro, preço)
     return preço - troco
+
+def lista(n):
+    return list(range(2, n+1, 2))
